@@ -1,6 +1,6 @@
 # **Blazing Sun dedicated squad website**
 
-## **Details comming soons...**
+- **Details comming soons...**
 
 
 ## **Example of website: How it looks like...**
